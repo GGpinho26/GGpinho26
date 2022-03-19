@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript,  POO e Java.
 - 😄 Pronouns: ele/dele.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geraldoolip]nho)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geraldoolipinho)
 
 ### Tecnologias que eu uso no meu dia!
 
