@@ -1,6 +1,6 @@
 ### Olá! Me chamo Geraldo Oliveira 👋
 
-- 👨‍💻 Sou estudante de informática 2/3.
+- 👨‍💻 Sou estudante de informática 3/3.
 - 🌱 Estudando Javascript,  POO, Java e React.
 - 😄 Pronouns: ele/dele.
 
